@@ -20,4 +20,3 @@ for _ in range(n):  # 각 줄에 대해
     blocks.append(row)  # 블록의 높이를 리스트에 추가
 
 print(max_blocks(n, blocks))  # 총 블록 수를 출력
-
